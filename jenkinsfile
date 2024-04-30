@@ -12,7 +12,7 @@
                     echo 'Dev'
                 }
             }
-            stage('Test') {
+            stage('TEST') {
                 steps {
                     echo 'Testing'
                 }
